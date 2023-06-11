@@ -10,4 +10,3 @@ class MyList(list):
         arr = list(self)
         arr.sort()
         print(arr)
-
